@@ -1,0 +1,53 @@
+Pet no,Pet Name,Category,Age,lifespan,size,nature,Quantity,Price,photo
+1,German Shepherd,Dog,3,12-14 years,Big,Loyal,2,30000,MenuIS\src\/Dashboard/EPPTimgs/Dogs/German shepherd.jpg
+2,Rottweiler,Dog,5,12-15 years,Big,Aggressive,1,20000,MenuIS\src/Dashboard/EPPTimgs/Dogs/Rottweiler.jpg
+3,Golden Retriever,Dog,5,12-14 years,Medium,Inquisitive,3,25000,MenuIS\src/Dashboard/EPPTimgs/Dogs/Golden retriever.jpg
+4,Japanese Spitz,Dog,6,10-12 years,Small,Loyal,4,15000,MenuIS\src/Dashboard/EPPTimgs/Dogs/Japanese spitz.jpg
+5,Australian shepherd,Dog,4,8-10 years,Medium,Aggressive,6,70000,MenuIS\src/Dashboard/EPPTimgs/Dogs/Australian shepherd.jpg
+6,African golden cat,Cat,5,7-8 years,Small,Inquisitive,8,20000,MenuIS\src/Dashboard/EPPTimgs/Cat/African Golden Cat.jpg
+7,Black footed cat,Cat,3,6-8 years,Medium,Passive,9,17000,MenuIS\src/Dashboard/EPPTimgs/Cat/blackfooted.jpg
+8,Asian leopard cat,Cat,6,7-8 years,Medium,Aggressive,9,22000,MenuIS\src/Dashboard/EPPTimgs/Cat/Asian Leopard Cat.jpg
+9,Borneo clouded cat,Cat,2,5-8 years,Small,Passive,9,21000,MenuIS\src/Dashboard/EPPTimgs/Cat/Borneo clouded.jpg
+10,Caracal cat,Cat,3,6-8 years,Medium,Loyal,6,16000,MenuIS\src/Dashboard/EPPTimgs/Cat/Caracal Cat.jpg
+11,Arabian horse,Horse,9,25-30 years,Big,Passive,1,150000,MenuIS\src/Dashboard/EPPTimgs/Horse/Arabian horse.jpg
+12,Quarter horse,Horse,7,28-32 years,Big,Loyal,2,180000,MenuIS\src/Dashboard/EPPTimgs/Horse/Quarter horse.jpg
+13,Thoroughbred horse,Horse,6,25-30 years,Big,Aggressive,3,140000,MenuIS\src/Dashboard/EPPTimgs/Horse/Thoroughbred horse.jpg
+14,Morgan horse,Horse,10,28-32 years,Big,Aggressive,4,110000,MenuIS\src/Dashboard/EPPTimgs/Horse/Morgan horse.jpg
+15,Miniature horse,Horse,11,25-30 years,Big,Aggressive,6,140000,MenuIS\src/Dashboard/EPPTimgs/Horse/Miniature horse.jpg
+16,Guppy fish,Fish,1,3-5 years,Medium,Aggressive,8,7500,MenuIS\src/Dashboard/EPPTimgs/Fish/Guppy fish.jpg
+17,Goldfish,Fish,2,5-8 years,Small,Inquisitive,2,6000,MenuIS\src/Dashboard/EPPTimgs/Fish/Gold fish.jpg
+18,Oscar fish,Fish,3,3-5 years,Medium,Passive,1,12000,MenuIS\src/Dashboard/EPPTimgs/Fish/Oscar fish.jpg
+19,Trout fish,Fish,4,4-7 years,Medium,Inquisitive,5,15000,MenuIS\src/Dashboard/EPPTimgs/Fish/Trout fish.jpg
+20,Burbot fish,Fish,3,3-5 years,Small,Inquisitive,4,8000,MenuIS\src/Dashboard/EPPTimgs/Fish/Burbot fish.jpg
+21,Rex Guinea pig,Guinea pig,2,4-8 years,Small,Loyal,2,3500,MenuIS\src/Dashboard/EPPTimgs/Guinea pig/Rex guinea pig.jpg
+22,Crested Guinea pig,Guinea pig,3,5-8 years,Small,Inquisitive,6,4500,\InformationSystem\src/Dashboard/EPPTimgs/Guinea pig/Crested guinea pig.jpg
+23,Ridgeback Guinea pig,Guinea pig,4,4-7 years,Medium,Loyal,7,5000,MenuIS\src/Dashboard/EPPTimgs/Guinea pig/Ridgeback guinea pig.jpg
+24,Abyssinian Guinea pig,Guinea pig,2,5-8 years,Medium,Loyal,9,6000,MenuIS\src/Dashboard/EPPTimgs/Guinea pig/Abyssinian guinea pig.jpg
+25,Angora Guinea pig,Guinea pig,3,4-7 years,Small,Aggressive,5,5500,MenuIS\src/Dashboard/EPPTimgs/Guinea pig/Angora guinea pig.jpg
+26,Merino Guinea pig,Guinea pig,5,6-8 years,Small,Inquisitive,4,3500,MenuIS\src\Dashboard/EPPTimgs/Guinea pig/Angora guinea pig.jpg
+27,Alpaca Guinea pig,Guinea pig,4,6-9  years,Medium,Passive,5,6000,MenuIS\src/Dashboard/EPPTimgs/Guinea pig/Alpaca guinea pig.jpg
+28,Holland Lop rabbit,Rabbit,2,4-5 years,Small,Loyal,2,2500,MenuIS\srcDashboard/EPPTimgs/Rabbit/Alpaca .jpg
+29,Rex rabbit,Rabbit,3,3-5 years,Small,Aggressive,4,3000,MenuIS\srcDashboard/EPPTimgs/Rabbit/Holland lop rabbit.jpg
+30,Tapeti rabbit,Rabbit,1,3-5 years,Small,Passive,3,5000,MenuIS\srcDashboard/EPPTimgs/Rabbit/Tapeti.jpg
+31,Polish rabbit,Rabbit,4,4-5 years,Small,Inquisitive,5,3500,MenuIS\src\Dashboard/EPPTimgs/Rabbit/Polish rabbit.jpg
+32,American rabbit,Rabbit,2,3-5 years,Small,Inquisitive,2,4000,MenuIS\src\Dashboard/EPPTimgs/Rabbit/American rabbit.jpg
+33,Hybrid Chicken,Chicken,1,7-9 years,Small,Aggressive,4,2000,MenuIS\src\Dashboard/EPPTimgs/Chicken/Hybrid chicken.jpg
+34,Rhode island chicken,Chicken,2,6-8 years,Small,Protective,2,1500,MenuIS\src\Dashboard/EPPTimgs/Chicken/Rhode island.jpg
+35,Leghorn chicken,Chicken,3,6-8 years,Medium,Aggressive,7,3000,MenuIS\src\Dashboard/EPPTimgs/Chicken/Leghorn chicken.jpg
+36,Ancona chicken,Chicken,2,5-8 years,Medium,Loyal,6,1500,MenuIS\src\Dashboard/EPPTimgs/Chicken/Ancona chicken.jpg
+37,Barnevelder chicken,Chicken,1,7-8 years,Medium,Aggressive,4,2000,MenuIS\src\Dashboard/EPPTimgs/Chicken/Barnevelder chicken.jpg
+38,Albino ferret,Ferret,3,4-6 years,Small,Aggressive,2,5000,MenuIS\src\Dashboard/EPPTimgs/Ferret/Albino ferret.jpg
+39,Champagne ferret,Ferret,2,5-7 years,Small,Aggressive,8,4500,MenuIS\src\Dashboard/EPPTimgs/Ferret/Champagne ferret.jpg
+40,Dalmatian ferret,Ferret,1,5-7 years,Small,Intelligent,5,4000,MenuIS\src\Dashboard/EPPTimgs/Ferret/Dalmatian ferret.jpg
+41,Cinnamon ferret,Ferret,3,6-7 years,Small,Loyal,1,4000,MenuIS\src\Dashboard/EPPTimgs/Ferret/Cinnamon ferret.jpg
+42,Sable ferret,Ferret,2,5-7 years,Small,Aggressive,3,5000,MenuIS\src\Dashboard/EPPTimgs/Ferret/Sable ferret.jpg
+43,Angus cattle,Cattle,6,12-15 years,Big,Loyal,5,15000,MenuIS\src\Dashboard/EPPTimgs/Cattle/Angus cattle.jpg
+44,Jersey cattle,Cattle,7,11-13 years,Big,Inquisitive,2,14000,MenuIS\src\Dashboard/EPPTimgs/Cattle/Jersey cattle.jpg
+45,Holstein Friesian cattle,Cattle,5,12-14 years,Big,Loyal,4,20000,MenuIS\src\Dashboard/EPPTimgs/Cattle/Holstein Friesian cattle.jpg
+46,Texas longhorn cattle,Cattle,6,12-14 years,Big,Inquisitive,6,13000,MenuIS\src\Dashboard/EPPTimgs/Cattle/Texas longhorn cattle.jpg
+47,Shorthorn cattle,Cattle,8,12-15 years,Big,Passive,1,12000,MenuIS\src\Dashboard/EPPTimgs/Cattle/Shorthorn cattle.jpg
+48,Wild goat,Goat,3,7-10 years,Medium,Loyal,3,16000,MenuIS\src\Dashboard/EPPTimgs/Goat/Wild goat.jpg
+49,Mountain goat,Goat,4,8-10 years,Medium,Aggressive,5,13000,MenuIS\src\Dashboard/EPPTimgs/Goat/Mountain goat.jpg
+50,Alpine ibex goat,Goat,3,7-9 years,Medium,Aggressive,4,10000,MenuIS\src\Dashboard/EPPTimgs/Goat/Alpine ibex goat.jpg
+51,Chamois goat,Goat,5,8-10 years,Medium,Passive,2,9000,MenuIS\src\Dashboard/EPPTimgs/Goat/Chamois goat.jpg
+52,Markhor goat,Goat,4,7-9 years,Medium,Inquisitive,7,14000,MenuIS\src\Dashboard/EPPTimgs/Goat/Markhor goat.jpg
